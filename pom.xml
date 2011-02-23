@@ -8,7 +8,7 @@
   <packaging>jar</packaging>
 
   <name>A Spring-Hibernate integration demo project</name>
-  <url>http://maven.apache.org</url>
+  <url>http://samolisov.blogspot.com/2009/06/hibernate-spring.html</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
